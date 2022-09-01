@@ -4,7 +4,7 @@ public class NamingConvention {
     public static void main(String[] args) {
         int _variable = 10;
         int variable_one = 1;
-        int variableTwo = 2;
+        int variable_two = 2;
         int variable_three = 3;
         final int VARIABLE_FOUR = 4;
         final int VARIABLE_FIVE = 5;
